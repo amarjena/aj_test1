@@ -1,6 +1,6 @@
 <dependencies>
   <dependency>
-    <source>jdk</source>
+    <source>jre 1.8</source>
     <library>tools.jar</library>
   <dependency>
 </dependencies>
